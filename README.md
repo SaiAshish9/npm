@@ -23,7 +23,6 @@ https://www.npmjs.com/~saiashish9
 
 npm publish
 
-
 npm version patch 
 
 It will increment the last version.
