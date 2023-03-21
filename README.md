@@ -26,4 +26,8 @@ npm publish
 npm version patch 
 
 It will increment the last version.
+
+npm install 
+
+node index.js
 ```
