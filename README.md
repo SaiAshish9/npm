@@ -15,3 +15,5 @@ npm notice Please check your email for a one-time password (OTP)
 Enter one-time password: 25694402
 Logged in as saiashish9 on https://registry.npmjs.org/.
 ```
+
+<img width="1789" alt="Screenshot 2023-03-21 at 9 43 15 AM" src="https://user-images.githubusercontent.com/43849911/226515701-d7d6375e-b8be-4a6f-9a42-5aed1aacaf57.png">
