@@ -31,3 +31,22 @@ npm install
 
 node index.js
 ```
+
+<img width="565" alt="Screenshot 2023-03-21 at 9 48 02 AM" src="https://user-images.githubusercontent.com/43849911/226516166-5b7d4899-ca9c-480f-be01-39d5bcb65402.png">
+
+<img width="559" alt="Screenshot 2023-03-21 at 9 48 35 AM" src="https://user-images.githubusercontent.com/43849911/226516230-3f077b4a-1d25-4a68-8b41-899f9c137638.png">
+
+```
+npm i npm-test-sai
+
+added 1 package, and audited 2 packages in 2s
+
+found 0 vulnerabilities
+
+node index.js 
+hi
+```
+
+<img width="871" alt="Screenshot 2023-03-21 at 9 52 30 AM" src="https://user-images.githubusercontent.com/43849911/226516674-87876cff-857d-487f-90c7-e295cae1c53e.png">
+
+
